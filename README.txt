@@ -1,0 +1,1 @@
+A simple singly linked list using templates, created as a learning exercise for C++.  The testcode uses the unittest++ framework, and currently tests only the functionality with floats as the template argument.
