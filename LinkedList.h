@@ -181,7 +181,6 @@ void LinkedList<T>::clearList(){
       delete temp;
       temp = next;
     }
-
   }
 }
 
@@ -189,7 +188,5 @@ template <class T>
 bool LinkedList<T>::isEmpty(){
   return head == nullptr;
 }
-
-
 
 #endif // LINKEDLIST_H_INCLUDED

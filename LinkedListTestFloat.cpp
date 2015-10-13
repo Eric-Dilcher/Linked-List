@@ -97,5 +97,4 @@ TEST_FIXTURE(LinkedListSetup, TestSize){
   CHECK_EQUAL(5, ll->size());
   ll->deleteAtPos(1);
   CHECK_EQUAL(4, ll->size());
-
 }
